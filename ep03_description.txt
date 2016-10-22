@@ -1,0 +1,27 @@
+Viral is the co-creator of many companies like Julia Inc and FourthLion Technologies. He is also the co-creator of Julia and CircuitScape. JuliaLang is a high performance functional programming language. Julia is a modern and easy to use high performance programming language. It provides a sophisticated compiler, parallel execution, numerical accuracy, and an extensive library of fast mathematical functions. While it is an open source project with a diverse community of almost 500 contributors around the world, research on Julia is anchored at MIT.
+
+— Show Notes: —
+
+<p><a https://en.wikipedia.org/wiki/Aadhaar">Aadhar</a></p>
+<p>The Unique Identification Authority of India (UIDAI) is a central government agency of India. Its objective is to collect the biometric and demographic data of residents, store them in a centralised database, and issue a 12-digit unique identity number called Aadhaar to each resident. It is considered the world's largest national identification number project.</p>
+
+<p><a href="http://juliacomputing.com/">Julia</a></p>
+<p>Julia is a modern and easy to use high performance programming language. It provides a sophisticated compiler, parallel execution, numerical accuracy, and an extensive library of fast mathematical functions. While it is an open source project with a diverse community of hundreds of contributors around the world, research on Julia is anchored at MIT.</p>
+
+<p><a href="http://www.circuitscape.org/">Circuitscape Project</a></p>
+<p>This site is home to Circuitscape, Linkage Mapper, and Gnarly Landscape Utilities. All are free and open source. Circuitscape borrows algorithms from electronic circuit theory to predict connectivity in heterogeneous landscapes. Linkage Mapper uses least-cost corridor analysis, circuit theory, and barrier analysis to map corridors, detect pinch-points and restoration opportunities within them, and identify important core areas and corridors. Gnarly Landscape Utilities automates the creation of core area maps and resistance layers needed for connectivity modeling.</p>
+
+<p><a href="http://julialang.org/blog/2012/02/why-we-created-julia">Why We Created Julia?</a></p>
+<p>We are greedy: we want more.</p>
+
+<p><a href="http://functionalconf.com/">FUNCTIONAL CONF</a></p>
+<p>Functional Conf is designed to bring the growing community of functional programmers together under one roof</p>
+
+<p><a href="https://www.youtube.com/user/JuliaLanguage">YouTube</a></p>
+<p>Subscribe to the YouTube channel to know more about the language.</p>
+
+<p><a href="http://www.joelonsoftware.com/articles/fog0000000017.html">Good Software Takes Ten Years.</a></p>
+<p>Make a ten year plan.</p>
+
+<p><a href="http://junolab.org/">Juno</a></p>
+<p>Juno is a powerful, free environment for the Julia language.</p>
